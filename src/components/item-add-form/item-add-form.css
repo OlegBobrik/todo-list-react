@@ -1,3 +1,15 @@
 .item-add-form {
   margin-top: 10px;
 }
+
+.item-add-input {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 0 10px;
+  flex-grow: 1;
+}
+
+.item-add-btn {
+  width: 30%;
+  margin-top: 10px;
+}
